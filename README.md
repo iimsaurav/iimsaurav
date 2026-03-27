@@ -1,16 +1,29 @@
 ## Hi there, I'm Saurav 👋
 
-<!--
-**iimsaurav/iimsaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer | Distributed Computing | Advanced Analytics | Business Intelligence | AI-Driven Automation
 
-Here are some ideas to get you started:
+I specialize in architecting reliable, scalable data infrastructure and high-performance ETL pipelines. My focus is on bridging the gap between traditional Data Engineering and the evolving world of LLMs—specifically through building **Model Context Protocol (MCP)** servers to create smarter, AI-integrated data workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, PySpark, T-SQL, SparkSQL |
+| **Data Platforms** | Databricks, Snowflake, Azure Synapse |
+| **Orchestration** | Azure Data Factory, Airflow, Fivetran, dbt |
+| **Distributed Computing** | Apache Spark, Hadoop |
+| **AI & Context** | **LLMs**, **MCP**, AI-Assisted Development |
+| **Storage & Formats** | ADLS Gen 2, S3, Delta Lake, Iceberg, Parquet |
+| **DevOps & IaC** | Azure DevOps, GitHub Actions, Terraform |
+| **Visualization** | Power BI, Tableau |
+
+---
+
+### 🚀 What I'm Working On
+- 🤖 **Data + LLMs:** Building MCP servers to give AI models better context over structured data.
+- ⚡ **Optimization:** Fine-tuning Spark jobs and Snowflake clustering for cost and performance.
+- 🏗️ **Infrastructure:** Implementing CI/CD for data platforms using Terraform and Azure DevOps.
+   
+---
